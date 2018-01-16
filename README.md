@@ -2,7 +2,7 @@
 
 自定义spinner，使用AppCompatTextView+PopupWindow 实现下拉选择的功能，代码简单，几个类
 
-#感谢
+# 感谢
 
 https://github.com/arcadefire/nice-spinner，本项目是对其的优化与扩展
 
@@ -35,20 +35,20 @@ dependencies {
 
 
 示例代码:
-    <org.angmarch.views.NiceSpinner
-        android:id="@+id/spinner2"
-        android:layout_width="200dp"
-        android:layout_height="40dp"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="25dp"
-        android:background="@drawable/shape"
-        android:gravity="center"
-        app:dropDownListPaddingBottom="35dp" />
+<org.angmarch.views.NiceSpinner
+     android:id="@+id/spinner2"
+     android:layout_width="200dp"
+     android:layout_height="40dp"
+     android:layout_gravity="center_horizontal"
+     android:layout_marginTop="25dp"
+     android:background="@drawable/shape"
+     android:gravity="center"
+     app:dropDownListPaddingBottom="35dp" />
 
 
-         NiceSpinner niceSpinner2 = (NiceSpinner) findViewById(R.id.spinner2);
-         List<String> dataset2 = new LinkedList<>(Arrays.asList("10","11","12","13","14","15","16","17","18","19"));
-         niceSpinner2.attachDataSource(dataset2);
+     NiceSpinner niceSpinner2 = (NiceSpinner) findViewById(R.id.spinner2);
+     List<String> dataset2 = new LinkedList<>(Arrays.asList("10","11","12","13","14","15","16","17","18","19"));
+     niceSpinner2.attachDataSource(dataset2);
 
 ```
 
