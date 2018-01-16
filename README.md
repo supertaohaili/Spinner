@@ -1,6 +1,6 @@
 # 自定义spinner
 
-自定义spinner，实现下拉选择的功能，代码简单，几个类
+自定义spinner，使用AppCompatTextView+PopupWindow 实现下拉选择的功能，代码简单，几个类
 
 #感谢：https://github.com/arcadefire/nice-spinner，本项目是对其的优化与扩展
 ```
