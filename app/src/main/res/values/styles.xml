@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="match_match">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <!--首页菜单栏-->
+
+    <!--蓝色，加粗，17sp-->
+
+    <!--黑色，12sp-->
+
+    <!--白色，12sp-->
+
+    <!--灰色，12sp-->
+
+    <!--白色，加粗，15sp 内边距3，3，28，28-->
+
+    <!--LinearLayout 水平平分，居中显示，竖直摆放-->
+
+    <!--首页模块标题-->
+
+    <!--用户数-->
+
+</resources>
