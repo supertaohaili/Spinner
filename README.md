@@ -30,7 +30,7 @@ allprojects {
 }
 
 dependencies {
-        compile 'com.github.supertaohaili:spinner:1.0.0'
+          compile 'com.github.supertaohaili:Spinner:1.0.0'
 }
 
 
