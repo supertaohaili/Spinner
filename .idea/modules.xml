@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MTNOS_GZH.iml" filepath="$PROJECT_DIR$/MTNOS_GZH.iml" />
+      <module fileurl="file://E:\mywork\Spinner\MTNOS_GZH.iml" filepath="E:\mywork\Spinner\MTNOS_GZH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spinner.iml" filepath="$PROJECT_DIR$/.idea/Spinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\mywork\Spinner\app\app.iml" filepath="E:\mywork\Spinner\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib_spinner/lib_spinner.iml" filepath="$PROJECT_DIR$/lib_spinner/lib_spinner.iml" />
+      <module fileurl="file://E:\mywork\Spinner\lib_spinner\lib_spinner.iml" filepath="E:\mywork\Spinner\lib_spinner\lib_spinner.iml" />
     </modules>
   </component>
 </project>

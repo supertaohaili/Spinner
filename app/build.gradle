@@ -51,4 +51,6 @@ android {
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile project(path: ':lib_spinner')
+        compile rootProject.ext.dependencies["appcompat-v7"]
+
 }
